@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repository files](https://github.com/EJMK18/FEM-product-preview-card)
+- Live Site: [Frontend Mentor: Product Preview Card Component](https://ejmk18.github.io/FEM-product-preview-card/)
 
 ## My process
 
